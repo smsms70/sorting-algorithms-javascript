@@ -1,0 +1,18 @@
+body{
+	background: #222;
+	margin: 0;
+
+}
+#canvas{
+	height: 400px;
+	width: 90%;
+	border: 1px solid grey;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+}
+.square-to-sort{
+	/*height: 100px;*/
+	width: 15px;
+	background: lightblue;
+}
